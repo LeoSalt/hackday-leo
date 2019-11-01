@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/leodanielsson/.nvm/versions/node/v10.15.3/bin/node /Users/leodanielsson/.nvm/versions/node/v10.15.3/bin/yarn global bin
+
+PATH: 
+  /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:./bin:/usr/local/sbin:/Users/leodanielsson/.dotfiles/bin:/Users/leodanielsson/.rbenv/shims:/Users/leodanielsson/.nvm/versions/node/v10.15.3/bin
+
+Yarn version: 
+  1.19.1
+
+Node version: 
+  10.15.3
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/leodanielsson/KamelProjects/Hackday/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /Users/leodanielsson/.nvm/versions/node/v10.15.3/lib/node_modules/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/Users/leodanielsson/.nvm/versions/node/v10.15.3/lib/node_modules/yarn/lib/cli.js:304:30)
+      at /Users/leodanielsson/.nvm/versions/node/v10.15.3/lib/node_modules/yarn/lib/cli.js:315:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
